@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Generated QR outputs
+*.png
